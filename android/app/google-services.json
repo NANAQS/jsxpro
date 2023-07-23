@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646073536352",
+    "project_id": "jsxpro-8cda5",
+    "storage_bucket": "jsxpro-8cda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646073536352:android:9369393b6443306379d805",
+        "android_client_info": {
+          "package_name": "com.example.jsxpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646073536352-gfn009148f3gltoq7hgkk73haacva34e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8HKb8V2g7dqvth6KSWSytrphuci3zHu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646073536352-gfn009148f3gltoq7hgkk73haacva34e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
